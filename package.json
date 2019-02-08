@@ -1,0 +1,22 @@
+{
+  "name": "mochalearn",
+  "version": "1.0.0",
+  "description": "Learn to Mocha\r =======",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eckmLJE/mochalearn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eckmLJE/mochalearn/issues"
+  },
+  "homepage": "https://github.com/eckmLJE/mochalearn#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
